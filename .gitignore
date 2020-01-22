@@ -88,3 +88,8 @@ fabric.properties
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.idea/.gitignore
+.idea/auth0-react-samples.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
